@@ -32,7 +32,6 @@ _- Charles Babbage_
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-000000.svg?logo=java&logoColor=E95420)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mariadb&logoColor=4169E1)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
@@ -48,6 +47,7 @@ _- Charles Babbage_
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=777777)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=FCC624)
 ![XML](https://img.shields.io/badge/XML-000000?style=flat&logo=xml&logoColor=FF0000)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mariadb&logoColor=4169E1)
 
 ### Game / Server
 ![SpigotMC](https://img.shields.io/badge/SpigotMC-000000?style=flat&logo=spigotmc&logoColor=yellow)
