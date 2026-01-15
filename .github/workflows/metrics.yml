@@ -9,11 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      users: read
+      repository-projects: read
     steps:
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          committer_token: ${{ secrets.METRICS_TOKEN }}
 
           base: activity, community
           plugin_isocalendar: yes
