@@ -15,25 +15,31 @@
   />
 </p>
 
----
+`“A person who never made a mistake never tried anything new.”`     
+_- Charles Babbage_
 
-### Programming Languages
-![Java](https://custom-icon-badges.demolab.com/badge/Java-000000.svg?logo=java&logoColor=E95420)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mariadb&logoColor=4169E1)
+---
 
 ### Platforms / Systems
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=E95420)
 ![Debian](https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=00adef)
+
 ![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=flat&logo=proxmox&logoColor=E57000)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-000000?style=flat&logo=pterodactyl&logoColor=3178C6)
 ![cPanel](https://img.shields.io/badge/cPanel-000000?style=flat&logo=cpanel&logoColor=FF6C00)
 
+### Programming Languages
+![Java](https://custom-icon-badges.demolab.com/badge/Java-000000.svg?logo=java&logoColor=E95420)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mariadb&logoColor=4169E1)
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
+
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=003B57)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariadb&logoColor=003545)
 
@@ -41,9 +47,14 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=springboot&logoColor=6DB33F)
 ![Discord JDA](https://img.shields.io/badge/Discord%20JDA-000000?style=flat&logo=discord&logoColor=5865F2)
 
+### Data Formats
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=777777)
+![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=FCC624)
+
 ### Game / Server
 ![SpigotMC](https://img.shields.io/badge/SpigotMC-000000?style=flat&logo=spigotmc&logoColor=yellow)
 ![BungeeCord](https://img.shields.io/badge/BungeeCord-000000?style=flat&logo=speedtest&logoColor=62B47A)
+
 ![BedrockScriptAPI](https://custom-icon-badges.demolab.com/badge/Bedrock%20Script%20API-000000.svg?logo=bedrock&logoColor=white)
 ![CS:GO](https://img.shields.io/badge/CSGO%20Dedicated-000000?style=flat&logo=steam&logoColor=00adef)
 
