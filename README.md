@@ -1,4 +1,4 @@
-# Guilherme Rodrigues
+# Guilherme Rodrigues 🐧
 
 <p align="center">
   <img 
