@@ -2,12 +2,11 @@
 
 <p align="center">
   <img 
-    src="https://wallscloud.net/img/resize/3440/1440/MM/2018-02-03-vk_com_oboihd_19271.jpg"
+    src="https://cdn.discordapp.com/attachments/1337892265087209492/1461235492879077551/image.png?ex=6969d119&is=69687f99&hm=66ca20234d187ad98d804b82b5f0769f71da323ce09585160504a06735353e11&"
     alt="banner"
-    width="100%"
     style="
       width: 1280px;
-      height: 300px;
+      height: 280px;
     "
   />
 </p>
