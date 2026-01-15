@@ -31,6 +31,12 @@
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-000000?style=flat&logo=pterodactyl&logoColor=3178C6)
 ![cPanel](https://img.shields.io/badge/cPanel-000000?style=flat&logo=cpanel&logoColor=FF6C00)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=003B57)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariadb&logoColor=003545)
+
 ### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=springboot&logoColor=6DB33F)
 ![Discord JDA](https://img.shields.io/badge/Discord%20JDA-000000?style=flat&logo=discord&logoColor=5865F2)
@@ -40,12 +46,6 @@
 ![BungeeCord](https://img.shields.io/badge/BungeeCord-000000?style=flat&logo=speedtest&logoColor=62B47A)
 ![BedrockScriptAPI](https://custom-icon-badges.demolab.com/badge/Bedrock%20Script%20API-000000.svg?logo=bedrock&logoColor=white)
 ![CS:GO](https://img.shields.io/badge/CSGO%20Dedicated-000000?style=flat&logo=steam&logoColor=00adef)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=003B57)
-![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariadb&logoColor=003545)
 
 ---
 
