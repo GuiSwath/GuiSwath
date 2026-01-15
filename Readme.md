@@ -18,16 +18,17 @@
 ---
 
 ### Programming Languages
+![Java](https://custom-icon-badges.demolab.com/badge/Java-000000.svg?logo=java&logoColor=E95420)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=ED8B00)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mariadb&logoColor=4169E1)
 
 ### Platforms / Systems
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=E95420)
+![Debian](https://img.shields.io/badge/Debian-000000?style=flat&logo=debian&logoColor=00adef)
 ![Proxmox](https://img.shields.io/badge/Proxmox-000000?style=flat&logo=proxmox&logoColor=E57000)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-000000?style=flat&logo=pterodactyl&logoColor=FF6F91)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-000000?style=flat&logo=pterodactyl&logoColor=3178C6)
 ![cPanel](https://img.shields.io/badge/cPanel-000000?style=flat&logo=cpanel&logoColor=FF6C00)
 
 ### Frameworks
@@ -49,11 +50,11 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-000000?logo=postman&logoColor=white" alt="Postman" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff" alt="IntelliJ IDEA" style="margin: 0 5px;"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000000.svg?logo=vsc&logoColor=white" alt="VS Code" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=ffffff" alt="WebStorm" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white" alt="Figma" style="margin: 0 5px;"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Postman-000000.svg?logo=postman&logoColor=E95420" alt="Postman" style="margin: 0 5px;"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/IntelliJ%20IDEA-000000.svg?logo=intellij2026&logoColor=white" alt="IntelliJ IDEA" style="margin: 0 5px;"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000000.svg?logo=vsc_color&logoColor=3178C6" alt="VS Code" style="margin: 0 5px;"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/WebStorm-000000.svg?logo=webstorm2026&logoColor=white" style="margin: 0 5px;"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Figma-000000.svg?logo=figma_color&logoColor=white" alt="Figma" style="margin: 0 5px;"/>
 </p>
 
 <p align="center">
