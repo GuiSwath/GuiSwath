@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      users: read
       repository-projects: read
     steps:
       - uses: lowlighter/metrics@latest
