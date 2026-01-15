@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=ED8B00)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mariadb&logoColor=4169E1)
 
 ### Platforms / Systems
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=FCC624)
@@ -36,21 +36,24 @@
 
 ### Game / Server
 ![SpigotMC](https://img.shields.io/badge/SpigotMC-000000?style=flat&logo=spigotmc&logoColor=yellow)
-![BungeeCord](https://img.shields.io/badge/BungeeCord-000000?style=flat&logo=data:image/svg+xml;base64,SEU_SVG_BASE64_AQUI)
-![Bedrock Script API](https://img.shields.io/badge/Bedrock%20Script%20API-000000?style=flat&logo=minecraft&logoColor=62B47A)
+![BungeeCord](https://img.shields.io/badge/BungeeCord-000000?style=flat&logo=speedtest&logoColor=62B47A)
+![BedrockScriptAPI](https://custom-icon-badges.demolab.com/badge/Bedrock%20Script%20API-000000.svg?logo=bedrock&logoColor=white)
+![CS:GO](https://img.shields.io/badge/CSGO%20Dedicated-000000?style=flat&logo=steam&logoColor=00adef)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=003B57)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariadb&logoColor=003545)
 
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Postman-000000?logo=postman&logoColor=white" alt="Postman" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff" alt="IntelliJ IDEA" style="margin: 0 5px;"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-000000.svg?logo=vsc&logoColor=white" alt="VS Code" style="margin: 0 5px;"/>
   <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=ffffff" alt="WebStorm" style="margin: 0 5px;"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="VS Code" style="margin: 0 5px;"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" style="margin: 0 5px;"/>
+  <img src="https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white" alt="Figma" style="margin: 0 5px;"/>
 </p>
 
 <p align="center">
