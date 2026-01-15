@@ -47,6 +47,7 @@ _- Charles Babbage_
 ### Data Formats
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=777777)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=flat&logo=yaml&logoColor=FCC624)
+![XML](https://img.shields.io/badge/XML-000000?style=flat&logo=xml&logoColor=FF0000)
 
 ### Game / Server
 ![SpigotMC](https://img.shields.io/badge/SpigotMC-000000?style=flat&logo=spigotmc&logoColor=yellow)
