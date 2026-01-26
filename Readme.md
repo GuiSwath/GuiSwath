@@ -5,14 +5,7 @@
 ![🇺🇸 English (US) — Intermediate](https://img.shields.io/badge/🇺🇸%20English%20(US)-Intermediate-000000?style=flat)
 
 <p align="center">
-  <img 
-    src="https://cdn.discordapp.com/attachments/1337892265087209492/1461235492879077551/image.png?ex=6969d119&is=69687f99&hm=66ca20234d187ad98d804b82b5f0769f71da323ce09585160504a06735353e11&"
-    alt="banner"
-    style="
-      width: 1280px;
-      height: 280px;
-    "
-  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/London_Wikivoyage_front_page_banner.jpg" alt="banner"/>
 </p>
 
 `“A person who never made a mistake never tried anything new.”`     
