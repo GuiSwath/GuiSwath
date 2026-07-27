@@ -34,6 +34,7 @@ _- Charles Babbage_
 
 ### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=springboot&logoColor=6DB33F)
+![JavaFX](https://custom-icon-badges.demolab.com/badge/JavaFX-000000.svg?logo=javafx&logoColor=E95420)
 ![Discord JDA](https://img.shields.io/badge/Discord%20JDA-000000?style=flat&logo=discord&logoColor=5865F2)
 
 ### Data Formats
